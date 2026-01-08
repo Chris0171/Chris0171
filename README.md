@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 Hola, soy Chris0171
+# 👋 Hola, soy Christian Milanés Rodriguez
 
 ### Desarrollador Full Stack | Entusiasta de la Tecnología | Aprendiz Continuo
 
