@@ -61,10 +61,9 @@ Apasionado por crear soluciones tecnológicas innovadoras y eficientes. Me espec
 
 <div align="center">
 
-<a href="https://github.com/Chris0171">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Chris0171&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chris0171&layout=compact&langs_count=7&theme=tokyonight" alt="Languages"/>
-</a>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chris0171&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Chris0171&theme=tokyonight)
 
 </div>
 
