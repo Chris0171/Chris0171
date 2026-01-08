@@ -61,16 +61,12 @@ Apasionado por crear soluciones tecnológicas innovadoras y eficientes. Me espec
 
 <div align="center">
   
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Chris0171&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chris0171&layout=compact&langs_count=7&theme=tokyonight"/>
+![](https://github-readme-stats.vercel.app/api?username=Chris0171&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-</div>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Chris0171&layout=compact&theme=tokyonight&hide_border=true)
 
-<div align="center">
-  
-[![GitHub Streak](https://streak-stats.demolab.com/? user=Chris0171&theme=tokyonight)](https://git.io/streak-stats)
+![](https://streak-stats.demolab.com/?user=Chris0171&theme=tokyonight&hide_border=true)
 
-</div>
 </div>
 
 ---
