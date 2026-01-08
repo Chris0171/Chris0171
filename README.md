@@ -71,21 +71,6 @@ Apasionado por crear soluciones tecnológicas innovadoras y eficientes. Me espec
 
 ---
 
-## 🎯 Proyectos Destacados
-
-<!-- Personaliza esta sección con tus proyectos reales -->
-
-### 🔥 [Nombre del Proyecto 1](https://github.com/Chris0171/proyecto1)
-Breve descripción del proyecto y tecnologías utilizadas.
-
-### 💻 [Nombre del Proyecto 2](https://github.com/Chris0171/proyecto2)
-Breve descripción del proyecto y tecnologías utilizadas.
-
-### ⚡ [Nombre del Proyecto 3](https://github.com/Chris0171/proyecto3)
-Breve descripción del proyecto y tecnologías utilizadas.
-
----
-
 ## 📫 Conecta Conmigo
 
 <div align="center">
