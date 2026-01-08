@@ -57,14 +57,14 @@ Apasionado por crear soluciones tecnológicas innovadoras y eficientes. Me espec
 
 ---
 
-## 📫 Conecta Conmigo
+## 📊 Estadísticas de GitHub
 
 <div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tu-usuario)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-email@ejemplo.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000? style=for-the-badge&logo=react&logoColor=white)](https://tu-portfolio.com)
+
+<a href="https://github.com/Chris0171">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api? username=Chris0171&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chris0171&layout=compact&langs_count=7&theme=tokyonight" alt="Languages"/>
+</a>
 
 </div>
 
