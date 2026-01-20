@@ -5,7 +5,7 @@
 ### Desarrollador Full Stack | Entusiasta de la Tecnología | Aprendiz Continuo
 
 [![GitHub followers](https://img.shields.io/github/followers/Chris0171?label=Followers&style=social)](https://github.com/Chris0171)
-[![GitHub stars](https://img.shields.io/github/stars/Chris0171? label=Stars&style=social)](https://github.com/Chris0171)
+[![GitHub stars](https://img.shields.io/github/stars/Chris0171?label=Stars&style=social)](https://github.com/Chris0171)
 
 </div>
 
