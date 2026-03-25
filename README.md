@@ -92,7 +92,7 @@ Apasionado por crear soluciones tecnológicas innovadoras y eficientes. Me espec
 
 ### 📈 Visitas al Perfil
 
-![Visitor Count](https://profile-counter.glitch.me/Chris0171/count.svg)
+[![Visitor Count](https://profile-counter.glitch.me/Chris0171/count.svg)]
 
 **¡Gracias por visitar mi perfil!  🚀**
 
